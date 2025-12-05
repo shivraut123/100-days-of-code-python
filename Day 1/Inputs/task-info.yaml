@@ -1,6 +1,6 @@
 type: theory
 files:
-  - name: solution.py
+  - name: inputs.py
     visible: true
     learner_created: false
 status: Solved

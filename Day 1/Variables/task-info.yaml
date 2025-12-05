@@ -1,6 +1,6 @@
 type: theory
 files:
-  - name: Love_calculator.py
+  - name: variables.py
     visible: true
     learner_created: false
   - name: solution.py

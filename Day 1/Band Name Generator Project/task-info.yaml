@@ -1,9 +1,6 @@
 type: theory
 files:
-  - name: Love_calculator.py
-    visible: true
-    learner_created: false
-  - name: solution.py
+  - name: Band_name_generator.py
     visible: true
     learner_created: false
 status: Solved
