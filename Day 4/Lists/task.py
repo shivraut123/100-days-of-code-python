@@ -1,0 +1,11 @@
+cars=["Ford","Mahindra","Tata","Tesla"]
+# cars.insert(0,"BYD")
+# cars.append("alfa Rameo")
+# cars.remove("Tesla")
+# cars.pop(2)
+# cars.clear()
+# print(cars.sort())
+# print(cars.count("Tata"))
+# print(cars)
+cars2= cars.copy()
+print(cars2)
