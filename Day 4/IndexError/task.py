@@ -5,5 +5,11 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "California", "Minnesota", "Oregon", "Kansas", "West Virginia", "Nevada", "Nebraska", "Colorado",
                      "North Dakota", "South Dakota", "Montana", "Washington", "Idaho", "Wyoming", "Utah", "Oklahoma",
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
+# When the list goes of out of range
+# print(states_of_america[50])
 
-print(states_of_america)
+vegetables=['cauliflower','potato','bringle','spinach']
+fruits=['apple','banana','orange','pineapple']
+dirty_dozen= [vegetables,fruits]
+
+print(dirty_dozen)
