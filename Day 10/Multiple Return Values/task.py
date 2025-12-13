@@ -4,4 +4,4 @@ def format_name(f_name, l_name):
     return f"{formated_f_name} {formated_l_name}"
 
 
-print(format_name("AnGEla", "YU"))
+print(format_name("Shiv", "Raut"))
