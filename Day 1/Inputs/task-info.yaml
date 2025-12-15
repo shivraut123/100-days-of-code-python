@@ -1,8 +1,5 @@
 type: theory
 files:
-  - name: Love_calculator.py
-    visible: true
-    learner_created: false
   - name: solution.py
     visible: true
     learner_created: false
