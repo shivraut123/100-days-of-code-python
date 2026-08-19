@@ -38,6 +38,7 @@
 | 22  | Building Pong Game |
 | 23  | Turtle Crossing Project |
 | 24  | Storing High Score in Snake Game & Mail Merge Project |
+| 25  | Squirrel Data Analysis & US States Game |
 
 > I will update this table every day!
 
