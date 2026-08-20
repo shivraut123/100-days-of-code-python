@@ -12,33 +12,34 @@
 
 ### 🗓 Progress Log
 
-| Day | Work Done                |
-| --- | ------------------------ |
-| 1   | Started the challenge 🚀 |
-| 2   | Tip Calculator Project   |
-| 3   | Treasure Island Project  |
-| 4   | Rock Paper Scissors      |
-| 5   | Password Generator Project |
-| 6   | Functions & Reeborg's World Game |
-| 7   | Hangman Game            |
-| 8   | Caesar Cipher Encryption and Decryption |
-| 9   | Blind Auction Project  |
-| 10  | The Calculator Project |
-| 11  | The Blackjack Capstone Project |
-| 12  | Number Guessing Project |
-| 13  | Debugging: How to find and fix errors in Code |
-| 14  | Higher or Lower Project |
-| 15  | Coffee Machine Project  |
-| 16  | Building Coffee Machine Project In OOP |
-| 17  | The Quiz Project In OOP |
-| 18  | Turtle and Graphical User Interface(GUI) |
-| 19  | Building Etch A Sketch App and turtle race |
-| 20  | Building Snake Game - Part 1 |
-| 21  | Completing Snake Game - Part 2 |
-| 22  | Building Pong Game |
-| 23  | Turtle Crossing Project |
-| 24  | Storing High Score in Snake Game & Mail Merge Project |
-| 25  | Squirrel Data Analysis & US States Game |
+| Day  | Work Done                |
+|------| ------------------------ |
+| 1    | Started the challenge 🚀 |
+| 2    | Tip Calculator Project   |
+| 3    | Treasure Island Project  |
+| 4    | Rock Paper Scissors      |
+| 5    | Password Generator Project |
+| 6    | Functions & Reeborg's World Game |
+| 7    | Hangman Game            |
+| 8    | Caesar Cipher Encryption and Decryption |
+| 9    | Blind Auction Project  |
+| 10   | The Calculator Project |
+| 11   | The Blackjack Capstone Project |
+| 12   | Number Guessing Project |
+| 13   | Debugging: How to find and fix errors in Code |
+| 14   | Higher or Lower Project |
+| 15   | Coffee Machine Project  |
+| 16   | Building Coffee Machine Project In OOP |
+| 17   | The Quiz Project In OOP |
+| 18   | Turtle and Graphical User Interface(GUI) |
+| 19   | Building Etch A Sketch App and turtle race |
+| 20   | Building Snake Game - Part 1 |
+| 21   | Completing Snake Game - Part 2 |
+| 22   | Building Pong Game |
+| 23   | Turtle Crossing Project |
+| 24   | Storing High Score in Snake Game & Mail Merge Project |
+| 25   | Squirrel Data Analysis & US States Game |
+| 26   | NATO Alphabet Project |
 
 > I will update this table every day!
 
