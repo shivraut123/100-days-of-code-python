@@ -40,6 +40,7 @@
 | 24   | Storing High Score in Snake Game & Mail Merge Project |
 | 25   | Squirrel Data Analysis & US States Game |
 | 26   | NATO Alphabet Project |
+ | 27  |Building Miles to KM Converter |
 
 > I will update this table every day!
 
