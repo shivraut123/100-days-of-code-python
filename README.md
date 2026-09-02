@@ -44,6 +44,7 @@
 | 28      | Building Pomodoro App Using tkinter                   |
 | 29      | Building a Password Manager GUI App with Tkinter      |
 | 30      | Error, Exception handling and JSON Data: Upgrading NATO Alphabet Project & Password Manager |
+ | 31     | Flash Card App                                       |
 
 I will update this table every day!
 
